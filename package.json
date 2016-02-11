@@ -1,0 +1,25 @@
+{
+  "name": "baidu-vop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/baidu-vop.git"
+  },
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/baidu-vop/issues"
+  },
+  "homepage": "https://github.com/song940/baidu-vop#readme",
+  "dependencies": {
+    "superagent": "^1.7.2"
+  }
+}
